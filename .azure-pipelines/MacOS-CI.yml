@@ -1,5 +1,6 @@
 trigger:
 - master
+- patch-1
 pr:
 - master
 
